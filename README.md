@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Space-Owl-of-Terra
 - 👀 I’m interested in development, AI, and computer architecture! 
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning machine learning and front-end dev
 - 💞️ I’m looking to collaborate on UI and AI
 
 
